@@ -1,3 +1,4 @@
+/* GENERAL CSS */
 * {
   margin: 0px;
   padding: 0px;}
@@ -9,10 +10,10 @@ html, body {
 	color:#ccc;
   height:100%;
   position:relative; }
-  
+
 html {
   background:#000 url(../img/backgroundBody.png) repeat-x left top; }
-  
+
 body {
   width:100%;
   min-width:950px;
@@ -45,18 +46,18 @@ a:hover {
 #headerContainer {
   position:absolute;
   left:0px;
-  top:340px; 
+  top:340px;
   width:890px;
   height:100px;}
-  
+
 #contentContainer {
   position:absolute;
   left:0px;
   top:450px;
   padding-bottom:100px; }
-  
-  
-  
+
+
+
 /************************ Top Navi */
 #navigation {
   position:absolute;
@@ -78,7 +79,7 @@ a:hover {
   background:url(../img/naviLineTop.png) no-repeat center top; }
 #navigation li a {
   color:#999; }
-  
+
 
 .learnParagraph {
   line-height:50px;
